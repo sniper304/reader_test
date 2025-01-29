@@ -1,0 +1,19 @@
+{
+  "readBook": "Read book",
+  "titleById": "Title #{{id}}",
+  "descriptionById": "Description #{{id}}",
+  "comments": "Comments",
+  "fontSize": "Font size",
+  "theme": "Theme color",
+  "font": "Font",
+  "pageSwipe": "Page swipe",
+  "textWrapping": "Text wrap",
+  "hide": "Hide",
+  "show": "Show",
+  "less": "Less",
+  "more": "More",
+  "lighter": "Lighter",
+  "darker": "Darker",
+  "topDown": "Top down",
+  "leftRight": "Left right"
+}

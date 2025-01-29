@@ -1,0 +1,1 @@
+export { BookReaderSettings } from './BookReaderSettings';
